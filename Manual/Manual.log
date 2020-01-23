@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.25)  20 JAN 2020 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.25)  22 JAN 2020 21:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1237,51 +1237,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--76
 
  []
 
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 80.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 80.
 
-LaTeX Warning: Reference `LastBibItem' on page 1 undefined on input line 80.
+Underfull \hbox (badness 10000) in paragraph at lines 79--85
+[]$\T1/pcr/m/n/10 https : / / www . raspberrypi . org / blog /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+[]$\T1/pcr/m/n/10 https : / / medium . com / @imkimfung /
+ []
+
+
+Overfull \hbox (106.5pt too wide) in paragraph at lines 88--92
+\T1/pcr/m/n/10 using-[]julia-[]to-[]control-[]leds-[]on-[]a-[]raspberry-[]pi-[]
+b320be83e503$[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--97
+
+ []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 99.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 99.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 99.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 99.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 99.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 99.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 99.
+
+LaTeX Warning: Reference `LastBibItem' on page 1 undefined on input line 99.
 
 No file Manual.bbl.
 
-Package natbib Warning: Empty `thebibliography' environment on input line 83.
+Package natbib Warning: Empty `thebibliography' environment on input line 102.
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 103.
 [1
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1297,13 +1328,13 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
 unam_logo.jpg> <./iimas.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
  (./Manual.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
 Package rerunfilecheck Info: File `Manual.out' has not changed.
 (rerunfilecheck)             Checksum: 352B7F91A8B3BBBBD051D50DD4679167;137.
 
@@ -1312,10 +1343,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 18877 strings out of 492982
- 300711 string characters out of 6134896
- 474183 words of memory out of 5000000
- 22121 multiletter control sequences out of 15000+600000
+ 18878 strings out of 492982
+ 300723 string characters out of 6134896
+ 481183 words of memory out of 5000000
+ 22122 multiletter control sequences out of 15000+600000
  23201 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,52p,636b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1324,10 +1355,10 @@ e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on Manual.pdf (1 page, 383405 bytes).
+Output written on Manual.pdf (1 page, 387040 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  27 words of extra memory for PDF output out of 10000 (max. 10000000)
 

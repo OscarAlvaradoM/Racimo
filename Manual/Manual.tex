@@ -74,7 +74,26 @@ Se utilizó etcher y la página oficial de Raspberry Pi para todo este proceso:
 \url{https://www.raspberrypi.org/downloads/raspbian/}
 \\
 
+Al insertar en la Raspberry Pi la tarjeta microSD que contenía Raspbian no fue necesario hacer alguna otra cosa, ya se mostraba el escritorio con la pantalla que se conectó mediante el HDMI. 
 
+Posteriormente se instaló Julia ya que es el lenguaje de programación con el que se planea trabajar. Se siguió la siguiente guía, pero en realidad es bastante fácil:\\
+\url{https://juliaberry.github.io/}
+\\
+además se instaló jupyter notebook siguiendo partes de la siguiente guía:\\
+\url{https://www.raspberrypi.org/blog/julia-language-raspberry-pi/}
+\\
+
+Para instalar todo esto se necesitó una conexión a internet. La tarjeta RPi que se tiene trae incluida antena Wi-Fi y BT, además de que incluye un puerto para conectarse a internet mediante cable ethernet, sin embargo \textbf{no se ha podido conectar mediante este método debido a las limitaciones de red que hay en el instituto}.
+
+Por otro lado, se comenzó a probar el funcionamiento de los puertos GPIO que incluye la RPi. Como se pretende usar Julia se probaron mediante una librería llamada PiGPIO que supuestamente es de Julia pero que en verdad resultó siendo la importación de un módulo de Python; se siguió el siguiente tutorial para el código en Julia de un blink con la Raspberry Pi:
+\\
+\url{https://medium.com/@imkimfung/using-julia-to-control-leds-on-a-raspberry-pi-b320be83e503}
+\\
+
+que viene desde un repositorio en GitHub que se muestra a continuación:
+\\
+\url{https://github.com/JuliaBerry/PiGPIO.jl}
+\\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{thebibliography}{99}
